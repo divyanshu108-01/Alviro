@@ -72,7 +72,7 @@ const Navbar = () => {
                     {/* Logo - Absolute Left */}
                     <Link to="/" className="group absolute left-6 md:left-12 z-50">
                         <span className="font-serif italic text-2xl md:text-3xl text-primary tracking-wider group-hover:text-amber-200 transition-colors duration-500 font-light">
-                            Avorio
+                            Alviro
                         </span>
                     </Link>
 

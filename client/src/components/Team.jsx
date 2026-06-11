@@ -38,7 +38,7 @@ const Team = () => {
                     </motion.h2>
                     <div className="w-16 h-0.5 bg-gradient-to-r from-transparent via-primary to-transparent mx-auto mb-8"></div>
                     <p className="text-gray-400 text-base md:text-lg max-w-3xl mx-auto leading-relaxed font-normal">
-                        Meet the culinary bohemians behind Avorio's award-winning flavors. Dedicated to the art of gastronomy, our team brings passion and precision to every plate.
+                        Meet the culinary bohemians behind Alviro's award-winning flavors. Dedicated to the art of gastronomy, our team brings passion and precision to every plate.
                     </p>
                 </div>
 

@@ -67,7 +67,7 @@ const Testimonials = () => {
             <div className="max-w-7xl mx-auto px-6 relative z-10">
                 <div className="text-center mb-20">
                     <span className="text-primary font-bold tracking-[0.2em] uppercase text-xs mb-4 block">Guest Book</span>
-                    <h2 className="text-5xl md:text-6xl font-header font-bold">Voices of Avorio</h2>
+                    <h2 className="text-5xl md:text-6xl font-header font-bold">Voices of Alviro</h2>
                 </div>
 
                 <div className="relative max-w-5xl mx-auto">

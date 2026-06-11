@@ -41,7 +41,7 @@ const Hero = () => {
                         Fine Italian Cuisine
                     </span>
                     <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-white mb-4 leading-tight">
-                        Avorio
+                        Alviro
                     </h1>
                     <div className="w-24 h-1 bg-primary mx-auto mb-6"></div>
                     <p className="font-sans text-gray-300 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed mb-8">

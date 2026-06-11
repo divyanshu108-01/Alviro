@@ -11,7 +11,7 @@ const Footer = () => {
 
                 {/* Brand */}
                 <div className="mb-20">
-                    <h2 className="font-serif italic text-5xl md:text-6xl text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-primary to-amber-200 mb-4">Avorio</h2>
+                    <h2 className="font-serif italic text-5xl md:text-6xl text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-primary to-amber-200 mb-4">Alviro</h2>
                     <div className="flex items-center justify-center gap-4">
                         <div className="h-[1px] w-8 bg-primary/30"></div>
                         <p className="font-sans text-[10px] tracking-[0.4em] uppercase text-primary/80">Fine Italian Cuisine</p>
@@ -45,7 +45,7 @@ const Footer = () => {
                         <h3 className="text-primary font-sans font-bold text-[10px] tracking-[0.25em] uppercase">Contact</h3>
                         <p className="text-gray-400/80 leading-loose text-sm">
                             +1 (555) 234-5678<br />
-                            <a href="mailto:reservations@ladolcevita.com" className="hover:text-primary transition-colors">reservations@avorio.com</a>
+                            <a href="mailto:reservations@alviro.com" className="hover:text-primary transition-colors">reservations@alviro.com</a>
                         </p>
                     </div>
                 </div>
@@ -64,7 +64,7 @@ const Footer = () => {
                 </div>
 
                 <div className="text-gray-600 text-[10px] tracking-[0.2em] uppercase border-t border-white/5 pt-8 inline-block px-12">
-                    &copy; {new Date().getFullYear()} Avorio. All rights reserved.
+                    &copy; {new Date().getFullYear()} Alviro. All rights reserved.
                 </div>
             </div>
         </footer>

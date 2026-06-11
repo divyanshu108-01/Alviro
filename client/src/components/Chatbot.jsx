@@ -7,7 +7,7 @@ import { API_URL } from '../config';
 const Chatbot = () => {
     const [isOpen, setIsOpen] = useState(false);
     const [messages, setMessages] = useState([
-        { id: 1, text: "Ciao! I'm your Avorio Concierge. I can help you book a table or recommend a dish.", sender: 'bot' }
+        { id: 1, text: "Ciao! I'm your Alviro Concierge. I can help you book a table or recommend a dish.", sender: 'bot' }
     ]);
     const [input, setInput] = useState('');
     const [reservationStep, setReservationStep] = useState(0); // 0: Idle, 1: Guests, 2: Date, 3: Time, 4: Name, 5: Contact, 6: Confirm
